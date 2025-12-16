@@ -62,6 +62,10 @@ id;nombre;precio;stock;categoria;estado;tipoClase;ram;almacenamiento;so;tipoAcce
 
 Ejemplo de contenido:
 
-ID   Nombre          Precio     Stock   Categoría  Estado     TipoProd   RAM    Alm(GB)    SO           TipoAccesorio   Color
-\=============================================================================================================================\
-1    Iphone 17       500000,00  70      SMARTPHONE NUEVO      SMARTPHONE -      128        IOS          -               -    
+ID   Nombre          Precio     Stock   Categoría  Estado             RAM    Alm(GB)    SO           TipoAccesorio   Color     
+/=============================================================================================================================/
+1    Iphone 17       1000,00    10      SMARTPHONE NUEVO              -      120        IOS          -               -         
+2    Laptop Lenovo   500,00     40      LAPTOP     REACONDICIONADO    16     1000       -            -               -         
+3    Funda Iphone 17 20,00      100     ACCESORIO  NUEVO              -      -          -            Funda           Negro     
+4    Samsung Galaxy  200,00     10      SMARTPHONE USADO              -      64         Android      -               -         
+
