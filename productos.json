@@ -1,0 +1,42 @@
+[
+  {
+    "sistemaOperativo": "IOS",
+    "almacenamientoGb": 120,
+    "id": 1,
+    "nombre": "Iphone 17",
+    "precio": 1000.0,
+    "stock": 10,
+    "categoria": "SMARTPHONE",
+    "estado": "NUEVO"
+  },
+  {
+    "ramGb": 16,
+    "almacenamientoGb": 1000,
+    "id": 2,
+    "nombre": "Laptop Lenovo",
+    "precio": 500.0,
+    "stock": 40,
+    "categoria": "LAPTOP",
+    "estado": "REACONDICIONADO"
+  },
+  {
+    "tipo": "Funda",
+    "color": "Negro",
+    "id": 3,
+    "nombre": "Funda Iphone 17",
+    "precio": 20.0,
+    "stock": 100,
+    "categoria": "ACCESORIO",
+    "estado": "NUEVO"
+  },
+  {
+    "sistemaOperativo": "Android",
+    "almacenamientoGb": 64,
+    "id": 4,
+    "nombre": "Samsung Galaxy",
+    "precio": 200.0,
+    "stock": 10,
+    "categoria": "SMARTPHONE",
+    "estado": "USADO"
+  }
+]

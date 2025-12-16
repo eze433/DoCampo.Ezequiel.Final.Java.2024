@@ -1,0 +1,5 @@
+id;nombre;precio;stock;categoria;estado;tipoClase;ram;almacenamiento;so;tipoAccesorio;colorAccesorio
+1;Iphone 17;1000.0;10;SMARTPHONE;NUEVO;SMARTPHONE;;120;IOS;;
+2;Laptop Lenovo;500.0;40;LAPTOP;REACONDICIONADO;LAPTOP;16;1000;;;
+3;Funda Iphone 17;20.0;100;ACCESORIO;NUEVO;ACCESORIO;;;;Funda;Negro
+4;Samsung Galaxy;200.0;10;SMARTPHONE;USADO;SMARTPHONE;;64;Android;;
